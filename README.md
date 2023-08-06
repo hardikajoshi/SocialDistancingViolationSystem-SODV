@@ -83,6 +83,3 @@ MegaPixels: Origins, Ethics, and Privacy Implications of Publicly Available Face
 [![Oxford Town Centre CCTV video-dataset](https://img.shields.io/badge/Oxford_Town_Centre-URL-yellowgreen)](https://exposing.ai/oxford_town_centre/)
 </br>
 
-#### LICENSE
-
-_This project is licensed under the terms of the [MIT license](https://github.com/afiqharith/SocialDistanceDetector-SODV/blob/master/LICENSE)._
