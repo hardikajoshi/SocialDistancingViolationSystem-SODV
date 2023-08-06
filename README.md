@@ -72,11 +72,6 @@ $ python social_distancing_violation_system.py
 
 - No camera calibration for intrinsic parameter
 
-### 9. References
-
-**Previous project** </br>
-[Person Detection for Social Distancing and Safety Violation Alert based on Segmented ROI](https://github.com/afiqharith/SocialDistancing-SafetyViolationROI-MobileNetSSD-FYP.git 'GitHub Repo')
-
 **Output video** </br>
 [![Youtube](https://img.shields.io/badge/Social_Distance_Violation_Detection-Youtube-red)](https://www.youtube.com/watch?v=zXBDvDaJLHA)
 
