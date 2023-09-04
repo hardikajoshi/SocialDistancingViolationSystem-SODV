@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="images/sodv_logo.png">
-</div>
 
 # SODV: Social Distancing Violation System YOLO version 3
 
