@@ -69,9 +69,6 @@ $ python social_distancing_violation_system.py
 
 - No camera calibration for intrinsic parameter
 
-**Output video** </br>
-[![Youtube](https://img.shields.io/badge/Social_Distance_Violation_Detection-Youtube-red)](https://www.youtube.com/watch?v=zXBDvDaJLHA)
-
 **YOLO Pre-Trained Model** </br>
 [![YOLO](https://img.shields.io/badge/YOLO-Darknet-yellow)](https://pjreddie.com/darknet/yolo/) [![Darknet](https://img.shields.io/badge/Darknet-GitHub-lightgrey)](https://github.com/pjreddie/darknet.git)
 
